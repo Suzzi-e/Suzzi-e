@@ -1,27 +1,37 @@
-# Hey there, I'm Sue👋🏽
+# Hi, I'm Susan👋🏽
 
-🎓 Mathematics & Computer Science student<br>
-📊 Aspiring Data Scientist
+🎓 **Mathematics & Computer Science Student** | 📊 **Aspiring Data Scientist**
 
-> Dare I say Statistics is fun🤓
+> Dare I say Statistics is fun
 > If you disagree... **Sue me**😄
 
-I'm interested in **monetizing Mathematics👀** — turning mathematical and statistical thinking into practical solutions through data and technology.
+I'm interested in **monetizing mathematics**—converting complex mathematical and statistical frameworks into practical, data-driven solutions and machine learning applications.
 
-### My current toolbox 🧰
+---
 
-Python • Pandas • NumPy • Scikit-learn • SQL • Tableau • Excel • Git/GitHub
+### 🧰 My Tool Box
+
+**Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn), SQL  
+**Visualization & Tools:** Tableau, Excel, Git, GitHub  
+
+---
 
 ### 📌 Featured Projects
 
-📊 **Taiwanese Bank Customer Classification**
-Machine learning classification project exploring whether bank customers would subscribe to a term deposit.
+* **[Taiwanese Bank Customer Classification](https://github.com/Suzzi-e/taiwanese-bank-customer-classification)**  
+  Evaluated Logistic Regression, Decision Tree, and Random Forest models to predict customer term deposit subscriptions, achieving data-driven insights for financial marketing targeting.
 
-🚗 **More projects coming soon...**
+* **[Karamoja Food Security Analysis](https://github.com/Suzzi-e/Karamoja_Food_Security_Analysis)**  
+  Exploratory data analysis and visualization using Python to uncover socio-economic and environmental trends impacting regional food security.
 
-### 🌱 Currently
+---
 
-*  Building **Machine Learning projects**
-*  Working with **Python, SQL & data visualization**
-*  Exploring **predictive modelling and applied ML**
-* Turning mathematical thinking into **data-driven solutions**
+### 🌱 Current Focus
+
+* Developing end-to-end predictive machine learning workflows
+* Optimizing data transformation pipelines using SQL & Python
+* Translating statistical theory into real-world business intelligence
+
+---
+
+🤝 **Connect with me on LInkedln** [Susan_Akinyi](https://linkedin.com/in/susan-akinyi)
