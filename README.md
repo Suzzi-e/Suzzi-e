@@ -1,24 +1,26 @@
-# Hey, I'm Susan 👋🏽
+# Hey there, I'm Sue👋🏽
 
-🎓 Mathematics & Computer Science student
+🎓 Mathematics & Computer Science student<br>
 📊 Aspiring Data Scientist
-🐍 Python | SQL | Machine Learning | Data Analytics
 
-I'm interested in turning data into meaningful insights
-and building practical machine learning solutions literally.
+> Dare I say Statistics is fun🤓
+> If you disagree... **Sue me**😄
 
-### 🛠️ Currently working with
+I'm interested in **monetizing Mathematics👀** — turning mathematical and statistical thinking into practical solutions through data and technology.
 
-Python • Pandas • NumPy • Scikit-learn
-SQL • Tableau • Excel • Git/GitHub
+### My current toolbox 🧰
 
-### 🚀 Currently learning
-
-Machine Learning • Data Science 
+Python • Pandas • NumPy • Scikit-learn • SQL • Tableau • Excel • Git/GitHub
 
 ### 📌 Featured Projects
 
-📊 Taiwanese Bank Customer Classification
-...
+📊 **Taiwanese Bank Customer Classification**
+Machine learning classification project exploring whether bank customers would subscribe to a term deposit.
 
+🚗 **More projects coming soon...**
 
+### 🌱 Currently learning
+
+- 🤖**Machine Learning**
+- 📊**Data Science**<br>
+Building projects, strengthening my data science skills, and looking for opportunities to learn, contribute, and grow
