@@ -34,4 +34,4 @@ I'm interested in **monetizing mathematics**—converting complex mathematical a
 
 ---
 
-🤝 **Connect with me on LInkedln** [Susan_Akinyi](https://linkedin.com/in/susan-akinyi)
+🤝 **Connect with me on Linkedln** [Susan_Akinyi](https://linkedin.com/in/susan-akinyi)
