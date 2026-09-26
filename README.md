@@ -19,8 +19,9 @@ Machine learning classification project exploring whether bank customers would s
 
 🚗 **More projects coming soon...**
 
-### 🌱 Currently learning
+### 🌱 Currently
 
-- 🤖**Machine Learning**
-- 📊**Data Science**<br>
-Building projects, strengthening my data science skills, and looking for opportunities to learn, contribute, and grow
+*  Building **Machine Learning projects**
+*  Working with **Python, SQL & data visualization**
+*  Exploring **predictive modelling and applied ML**
+* Turning mathematical thinking into **data-driven solutions**
