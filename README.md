@@ -11,7 +11,7 @@ I'm interested in **monetizing mathematics**—converting complex mathematical a
 
 ### 🧰 My Tool Box
 
-**Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn), SQL  
+**Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn, Flask), SQL, R, Java, C, C++, HTML, CSS
 **Visualization & Tools:** Tableau, Excel, Git, GitHub  
 
 ---
