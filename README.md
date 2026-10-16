@@ -2,8 +2,8 @@
 
 🎓 **Mathematics & Computer Science Student** | 📊 **Aspiring Data Scientist**
 
-> Dare I say Statistics is fun
-> If you disagree... **Sue me**😄
+> Dare I say Statistics is fun,
+> If you disagree, **Sue me**😄
 
 My interest - **monetizing mathematics** by converting complex mathematical and statistical frameworks into practical, data-driven solutions and machine learning applications.
 
