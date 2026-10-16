@@ -25,6 +25,9 @@ My interest - **monetizing mathematics** by converting complex mathematical and 
 * **[Karamoja Food Security Analysis](https://github.com/Suzzi-e/Karamoja_Food_Security_Analysis)**  
   Exploratory data analysis and visualization using Python to uncover socio-economic and environmental trends impacting regional food security.
 
+* **[Netflix_Catalog_Insights](https://github.com/Suzzi-e/Netflix_catalog_insights)**
+  Exploratory data analysis of Netflix movies and TV shows, uncovering content trends and business insights through Python visualizations and an interactive Streamlit dashboard.
+
 ---
 
 ### 🌱 Current Focus
