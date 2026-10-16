@@ -5,7 +5,7 @@
 > Dare I say Statistics is fun
 > If you disagree... **Sue me**😄
 
-I'm interested in **monetizing mathematics**—converting complex mathematical and statistical frameworks into practical, data-driven solutions and machine learning applications.
+My interest- **monetizing mathematics** by converting complex mathematical and statistical frameworks into practical, data-driven solutions and machine learning applications.
 
 ---
 
