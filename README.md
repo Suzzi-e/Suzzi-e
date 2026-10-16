@@ -15,9 +15,7 @@ My interest - **monetizing mathematics** by converting complex mathematical and 
 **Statistical Software:** SPSS, Stata<br>
 **Visualization & Tools:** Tableau, Excel, Git, GitHub  
 
----
-
- 
+--- 
 
 ### 📌 Featured Projects
 
@@ -37,4 +35,11 @@ My interest - **monetizing mathematics** by converting complex mathematical and 
 
 ---
 
-🤝 **Connect with me on Linkedln** [Susan_Akinyi](https://linkedin.com/in/susan-akinyi)
+### 🤝 Let's Connect!
+
+  I am always open to discussing data-driven opportunities, data science collaborations, or just talking about statistics. 
+
+* **Professional Network:** Linkeldln [Susan_Akinyi](https://linkedin.com/in/susan-akinyi)
+* **Direct Message:** [![Email](https://shields.io)](mailto:ochiengsusan344@gmail.com)
+
+
